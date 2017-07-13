@@ -1,0 +1,10 @@
+Added Component: Designator=H3(Pin3)
+Added Pin To Net: NetName=NetC6_1 Pin=H3-1
+Added Pin To Net: NetName=DGND Pin=H3-3
+Change Net Name : Old Net Name=DGND New Net Name=SGND
+Change Net Name : Old Net Name=NetC6_1 New Net Name=VREF
+Added Pin To Net: NetName=SEL Pin=H3-2
+Added Pin To Net: NetName=SEL Pin=U1-18
+Added Net: Name=SEL
+Added Member To Class: ClassName=ADS803_schematic Member=Component H3 Header 3
+Added Room: Name=ADS803_schematic

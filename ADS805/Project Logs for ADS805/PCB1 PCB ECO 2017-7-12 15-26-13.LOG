@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ADIN Pin=H1-29
+Removed Pin From Net: NetName=ADIN Pin=H1-30
+Removed Pin From Net: NetName=NetC3_1 Pin=H4-1
+Removed Pin From Net: NetName=VREF Pin=H4-2
+Added Pin To Net: NetName=L15 Pin=H1-29
+Added Pin To Net: NetName=L15 Pin=H1-30
+Added Net: Name=L15
+Added Room: Name=ADS803_schematic

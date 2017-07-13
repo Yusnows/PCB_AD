@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND2 Pin=P3-2
+Removed Pin From Net: NetName=GND2 Pin=P3-2
+Removed Pin From Net: NetName=GND2 Pin=P3-2
+Removed Pin From Net: NetName=GND2 Pin=P3-2
+Change Component DesignItemId : Designator=P1 Old DesignItemId=SMA_1 New DesignItemId=SMB
+Change Component DesignItemId : Designator=P2 Old DesignItemId=SMA_1 New DesignItemId=SMB
+Change Component DesignItemId : Designator=P3 Old DesignItemId=SMA_1 New DesignItemId=SMB
+Change Component Comment : Designator=P1 Old Comment=SMA_1 New Comment=SMB
+Change Component Comment : Designator=P2 Old Comment=SMA_1 New Comment=SMB
+Change Component Comment : Designator=P3 Old Comment=SMA_1 New Comment=SMB
+Change Component Description : Designator=P1 Old Description= New Description=SMB Straight Connector
+Change Component Description : Designator=P2 Old Description= New Description=SMB Straight Connector
+Change Component Description : Designator=P3 Old Description= New Description=SMB Straight Connector
+Change Component Library : Designator=P1 Old Library=ADS803_Schlib.SchLib New Library=Miscellaneous Connectors.IntLib
+Change Component Library : Designator=P2 Old Library=ADS803_Schlib.SchLib New Library=Miscellaneous Connectors.IntLib
+Change Component Library : Designator=P3 Old Library=ADS803_Schlib.SchLib New Library=Miscellaneous Connectors.IntLib
+Added Component: Designator=P4(SMB_V-RJ45)
+Added Pin To Net: NetName=GND2 Pin=P3-1
+Added Pin To Net: NetName=DGND1 Pin=P4-2
+Added Pin To Net: NetName=DGND1 Pin=P4-2
+Added Pin To Net: NetName=DGND1 Pin=P4-2
+Added Pin To Net: NetName=DGND1 Pin=P4-2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=Rin-1
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=U3-1
+Added Net: Name=NetP4_1
+Added Member To Class: ClassName=ADS803_schematic Member=Component P4 SMB
+Added Room: Name=ADS803_schematic

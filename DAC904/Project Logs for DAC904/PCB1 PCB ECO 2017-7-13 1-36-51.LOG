@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=H4 Pin=H2-1
+Removed Pin From Net: NetName=CLK Pin=H2-2
+Added Pin To Net: NetName=CLK Pin=H2-1
+Added Pin To Net: NetName=H4 Pin=H2-2
+Added Member To Class: ClassName=DAC904 Member=Component U2 OPA691_D_8
+Added Room: Name=DAC904

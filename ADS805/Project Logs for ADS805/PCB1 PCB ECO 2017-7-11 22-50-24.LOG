@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetP4_1 Pin=U3-1
+Added Component: Designator=Rin1(6-0805_N)
+Added Pin To Net: NetName=NetP4_1 Pin=Rin1-2
+Added Pin To Net: NetName=NetRin1_1 Pin=Rin1-1
+Added Pin To Net: NetName=NetRin1_1 Pin=U3-1
+Added Net: Name=NetRin1_1
+Added Member To Class: ClassName=ADS803_schematic Member=Component Rin1 25Ohm
+Added Room: Name=ADS803_schematic
