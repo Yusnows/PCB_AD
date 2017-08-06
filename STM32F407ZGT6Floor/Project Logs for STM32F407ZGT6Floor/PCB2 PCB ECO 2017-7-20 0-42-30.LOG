@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=P1-125
+Added Pin To Net: NetName=GND Pin=P4-59
+Added Member To Class: ClassName=STM32F407ZGT6Floor Member=Component LCD1 TFT_LCD2
+Added Room: Name=STM32F407ZGT6Floor

@@ -1,0 +1,45 @@
+Added Component: Designator=C1(CAP_SMD_3216)
+Added Component: Designator=C2(0805C)
+Added Component: Designator=C3(0805C)
+Added Component: Designator=Cin(0805C)
+Added Component: Designator=Cout(0805C)
+Added Component: Designator=H1(HDR1X2)
+Added Component: Designator=L?(0805L)
+Added Component: Designator=S1(SMB_V-RJ45)
+Added Component: Designator=S2(SMB_V-RJ45)
+Added Component: Designator=U1(RK_3)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCin_1 Pin=Cin-1
+Added Pin To Net: NetName=NetCin_1 Pin=S1-1
+Added Net: Name=NetCin_1
+Added Pin To Net: NetName=NetCin_2 Pin=Cin-2
+Added Pin To Net: NetName=NetCin_2 Pin=U1-1
+Added Net: Name=NetCin_2
+Added Pin To Net: NetName=NetCout_1 Pin=Cout-1
+Added Pin To Net: NetName=NetCout_1 Pin=L?-1
+Added Pin To Net: NetName=NetCout_1 Pin=U1-3
+Added Net: Name=NetCout_1
+Added Pin To Net: NetName=NetCout_2 Pin=Cout-2
+Added Pin To Net: NetName=NetCout_2 Pin=S2-1
+Added Net: Name=NetCout_2
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=H1-2
+Added Pin To Net: NetName=VCC Pin=L?-2
+Added Net: Name=VCC
+Added Class: Name=ADL5545WideBandAmp
+Added Room: Name=ADL5545WideBandAmp

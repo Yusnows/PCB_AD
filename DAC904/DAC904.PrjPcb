@@ -158,7 +158,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GYVIRPFS
 
 [Document8]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=DAC904.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,11 +174,53 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFVPVJWA
 
+[Document9]
+DocumentPath=Library\DAC904\TSSOP28.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=Library\DAC904\TSSOP28.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DAC904\Board Information - PCB1.html
+DocumentPath=Project Outputs for DAC904\Board Information - DAC904.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for DAC904\Board Information - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for DAC904\Design Rule Check - DAC904.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for DAC904\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 

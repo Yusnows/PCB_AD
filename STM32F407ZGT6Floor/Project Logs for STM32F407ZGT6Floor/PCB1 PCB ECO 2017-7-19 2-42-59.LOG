@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=STM32F407ZGT6Floor Member=P4
+Change Component Designator: OldDesignator=TFT? NewDesignator=TFT1
+Added Component: Designator=P1(PCBComponent_1-1)
+Added Member To Class: ClassName=STM32F407ZGT6Floor Member=Component P1 HeaderST
+Added Room: Name=STM32F407ZGT6Floor

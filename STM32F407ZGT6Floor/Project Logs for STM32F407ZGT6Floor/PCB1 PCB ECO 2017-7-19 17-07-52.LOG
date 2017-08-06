@@ -1,0 +1,5 @@
+Added Component: Designator=U1(Micro_USB_v2 - duplicate)
+Added Pin To Net: NetName=H17 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Member To Class: ClassName=STM32F407ZGT6Floor Member=Component U1 micro USB
+Added Room: Name=STM32F407ZGT6Floor

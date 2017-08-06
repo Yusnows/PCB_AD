@@ -1,0 +1,7 @@
+Added Component: Designator=P1(PCBComponent_1)
+Added Component: Designator=P2(PCBComponent_1)
+Added Component: Designator=P3(PCBComponent_1)
+Added Component: Designator=P4(PCBComponent_1)
+Added Component: Designator=TFT?(DB2*17-3.5-1)
+Added Class: Name=STM32F407ZGT6Floor
+Added Room: Name=STM32F407ZGT6Floor

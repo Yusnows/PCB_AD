@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=P1-125
+Removed Pin From Net: NetName=GND Pin=P4-59
+Added Pin To Net: NetName=GND Pin=P1-84
+Added Pin To Net: NetName=GND Pin=P4-18
+Added Pin To Net: NetName=H125 Pin=P1-125
+Added Pin To Net: NetName=H125 Pin=P4-59
+Added Net: Name=H125
+Added Room: Name=STM32F407ZGT6Floor

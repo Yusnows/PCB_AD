@@ -1,0 +1,36 @@
+Added Component: Designator=LCD?(DB2*17-3.5-1)
+Added Pin To Net: NetName=FSMC_NE4 Pin=LCD?-1
+Added Pin To Net: NetName=FSMC_A6 Pin=LCD?-2
+Added Pin To Net: NetName=FSMC_NWE Pin=LCD?-3
+Added Pin To Net: NetName=FSMC_NOE Pin=LCD?-4
+Added Pin To Net: NetName=RESET Pin=LCD?-5
+Added Pin To Net: NetName=FSMC_D0 Pin=LCD?-6
+Added Pin To Net: NetName=FSMC_D1 Pin=LCD?-7
+Added Pin To Net: NetName=FSMC_D2 Pin=LCD?-8
+Added Pin To Net: NetName=FSMC_D3 Pin=LCD?-9
+Added Pin To Net: NetName=FSMC_D4 Pin=LCD?-10
+Added Pin To Net: NetName=FSMC_D5 Pin=LCD?-11
+Added Pin To Net: NetName=FSMC_D6 Pin=LCD?-12
+Added Pin To Net: NetName=FSMC_D7 Pin=LCD?-13
+Added Pin To Net: NetName=FSMC_D8 Pin=LCD?-14
+Added Pin To Net: NetName=FSMC_D9 Pin=LCD?-15
+Added Pin To Net: NetName=FSMC_D10 Pin=LCD?-16
+Added Pin To Net: NetName=FSMC_D11 Pin=LCD?-17
+Added Pin To Net: NetName=FSMC_D12 Pin=LCD?-18
+Added Pin To Net: NetName=FSMC_D13 Pin=LCD?-19
+Added Pin To Net: NetName=FSMC_D14 Pin=LCD?-20
+Added Pin To Net: NetName=FSMC_D15 Pin=LCD?-21
+Added Pin To Net: NetName=GND Pin=LCD?-22
+Added Pin To Net: NetName=LCD_BL Pin=LCD?-23
+Added Pin To Net: NetName=VCC3.3 Pin=LCD?-24
+Added Pin To Net: NetName=VCC3.3 Pin=LCD?-25
+Added Pin To Net: NetName=GND Pin=LCD?-26
+Added Pin To Net: NetName=GND Pin=LCD?-27
+Added Pin To Net: NetName=VCC5 Pin=LCD?-28
+Added Pin To Net: NetName=TMISO Pin=LCD?-29
+Added Pin To Net: NetName=TMOSI Pin=LCD?-30
+Added Pin To Net: NetName=TPEN Pin=LCD?-31
+Added Pin To Net: NetName=TCS Pin=LCD?-33
+Added Pin To Net: NetName=TSCK Pin=LCD?-34
+Added Member To Class: ClassName=STM32F407ZGT6Floor Member=Component LCD? TFT_LCD2
+Added Room: Name=STM32F407ZGT6Floor

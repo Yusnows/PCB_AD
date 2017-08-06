@@ -1,0 +1,2 @@
+Remove Pin=P1-1 From Net=PE2
+Add Pin To Net: Pin=P1-1 Old Net=PE2 New Net=PE1

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=AVCC1 Pin=H7-1
+Removed Pin From Net: NetName=DVCC Pin=H7-2
+Removed Pin From Net: NetName=AVCC2 Pin=H8-1
+Removed Pin From Net: NetName=AVCC2 Pin=H8-2
+Removed Pin From Net: NetName=H4 Pin=R4-1
+Removed Pin From Net: NetName=AGND1 Pin=R14-1
+Removed Pin From Net: NetName=H4 Pin=RD-1
+Removed Pin From Net: NetName=H2 Pin=RD-2
+Change Component Footprint: Designator=U1 Old Footprint=DW28 New Footprint=PW28
+Added Pin To Net: NetName=H2 Pin=H1-3
+Added Pin To Net: NetName=H2 Pin=H1-4
+Added Pin To Net: NetName=H2 Pin=R4-1
+Added Pin To Net: NetName=H4 Pin=R4-2
+Added Pin To Net: NetName=AGND1 Pin=R5-2
+Added Pin To Net: NetName=H2 Pin=R6-2
+Added Room: Name=DAC904

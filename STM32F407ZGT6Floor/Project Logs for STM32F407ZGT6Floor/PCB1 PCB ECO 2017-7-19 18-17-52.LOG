@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=FSMC_D3 Pin=P1-101
+Added Pin To Net: NetName=FSMC_D2 Pin=P1-102
+Added Pin To Net: NetName=FSMC_D3 Pin=P4-35
+Added Pin To Net: NetName=FSMC_D2 Pin=P4-36
+Added Room: Name=STM32F407ZGT6Floor

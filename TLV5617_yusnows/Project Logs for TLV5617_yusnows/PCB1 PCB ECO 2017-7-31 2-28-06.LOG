@@ -1,0 +1,54 @@
+Added Component: Designator=C1(0805C)
+Added Component: Designator=Cc1(0805C)
+Added Component: Designator=Cc2(CAP_SMD_3216)
+Added Component: Designator=H1(HDR1X5)
+Added Component: Designator=H2(HDR1X2)
+Added Component: Designator=H3(HDR1X4)
+Added Component: Designator=R1(0805R)
+Added Component: Designator=R2(0805R)
+Added Component: Designator=R3(0805R)
+Added Component: Designator=U1(D8)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=Cc1-1
+Added Pin To Net: NetName=GND Pin=Cc2-2
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=R3-1
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=NetH1_4 Pin=R2-1
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Pin To Net: NetName=NetH1_5 Pin=R1-1
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=OUTA Pin=H3-3
+Added Pin To Net: NetName=OUTA Pin=H3-4
+Added Pin To Net: NetName=OUTA Pin=U1-4
+Added Net: Name=OUTA
+Added Pin To Net: NetName=OUTB Pin=H3-1
+Added Pin To Net: NetName=OUTB Pin=H3-2
+Added Pin To Net: NetName=OUTB Pin=U1-7
+Added Net: Name=OUTB
+Added Pin To Net: NetName=REF Pin=C1-1
+Added Pin To Net: NetName=REF Pin=H1-2
+Added Pin To Net: NetName=REF Pin=U1-6
+Added Net: Name=REF
+Added Pin To Net: NetName=VCC Pin=Cc1-2
+Added Pin To Net: NetName=VCC Pin=Cc2-1
+Added Pin To Net: NetName=VCC Pin=H2-1
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Net: Name=VCC
+Added Class: Name=TLV5617_yusnows
+Added Room: Name=TLV5617_yusnows
