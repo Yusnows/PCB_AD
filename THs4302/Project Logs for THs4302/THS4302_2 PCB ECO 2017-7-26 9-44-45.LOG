@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=Vin
+Change Component Designator: OldDesignator=P2 NewDesignator=Vout
+Added Pin To Net: NetName=GND Pin=U1-13
+Change Net Name : Old Net Name=NetP1_1 New Net Name=VIN
+Change Net Name : Old Net Name=NetP2_1 New Net Name=VOUT
+Added Room: Name=THS4302

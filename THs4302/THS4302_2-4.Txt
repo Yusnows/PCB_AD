@@ -1,0 +1,2 @@
+SMB Vin Pad 1 到 电 阻  R1 Pad 的 线 ， 即  VIN 线 为  50 欧 微 带 线 。
+
